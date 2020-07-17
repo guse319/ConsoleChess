@@ -1,3 +1,5 @@
 *.vcxproj
 *.sln
 Debug
+*.vcxproj.*
+.vs
